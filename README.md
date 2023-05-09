@@ -10,5 +10,5 @@ If you have a suggestion that would make this better, please fork the repository
 Distributed under the MIT License. See LICENSE.txt for more information.
 
 # Contact
-Ben - benmoss526@gmail.com @theoneand5
+Ben - benmoss526@gmail.com @TheOneand5
 https://sites.google.com/view/benmoss-portfolio
