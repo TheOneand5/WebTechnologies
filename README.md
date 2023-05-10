@@ -9,6 +9,7 @@ This technology identifies the source of an image. Entering a UII into a web sea
 <sub>1</sub> Image file type <sub>2</sub> UII Certificate <sub>3</sub> Source language and region <sub>4</sub> Source ID <sub>5</sub> Image ID
 
 **Decoded:**
+
 <sub>1</sub> Original file type: JPG <sub>2</sub> Certificate 31z - Valid <sub>3</sub> English - Mexico <sub>4</sub> Twitter <sub>5</sub> 10Qr37
 
 # Contributing
