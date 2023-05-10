@@ -10,7 +10,7 @@ This technology identifies the source of an image. Entering a UII into a web sea
 
 **Decoded:**
 
-<sub>1</sub> Original file type: JPG <sub>2</sub> Certificate 31z - Valid <sub>3</sub> English - Mexico <sub>4</sub> Twitter <sub>5</sub> 10Qr37
+<sub>1</sub> Original file type: JPG   <sub>2</sub> Certificate 31z - Valid   <sub>3</sub> English - Mexico   <sub>4</sub> Twitter   <sub>5</sub> 10Qr37  
 
 # Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
